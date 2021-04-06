@@ -17,3 +17,7 @@ MNIST &#8594; USPS             |  USPS &#8594; MNIST
 SyDigits &#8594; SVHN             |  SVHN &#8594; SyDigits
 :-------------------------:|:-------------------------:
 ![SyDigits_SVHN.](Results/SyDigits_SVHN/SyDigits_SVHN.png)  |  ![SVHN_SyDigits](Results/SyDigits_SVHN/SVHN_SyDigits.png)
+
+MNIST &#8594; SVHN             |  SVHN &#8594; MNIST
+:-------------------------:|:-------------------------:
+![MNIST_SVHN.](Results/SVHN_MNIST/MNIST_SVHN.png)  |  ![SVHN_MNIST](Results/SVHN_MNIST/SVHN_MNIST.png)
