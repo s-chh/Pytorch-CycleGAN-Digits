@@ -16,10 +16,12 @@ MNIST &#8594; MNIST-M             |  MNIST-M &#8594; MNIST
 :-------------------------:|:-------------------------:
 ![MNIST_MNISTM.](Results/MNIST_MNISTM/MNIST_MNISTM.png)  |  ![MNISTM_MNIST](Results/MNIST_MNISTM/MNISTM_MNIST.png)
 
+### MNIST &#8596; USPS
 MNIST &#8594; USPS             |  USPS &#8594; MNIST
 :-------------------------:|:-------------------------:
 ![MNIST_USPS.](Results/MNIST_USPS/MNIST_USPS.png)  |  ![MNISTM_MNIST](Results/MNIST_USPS/USPS_MNIST.png)
 
+### SyDigits &#8596; SVHN
 SyDigits &#8594; SVHN             |  SVHN &#8594; SyDigits
 :-------------------------:|:-------------------------:
 ![SyDigits_SVHN.](Results/SyDigits_SVHN/SyDigits_SVHN.png)  |  ![SVHN_SyDigits](Results/SyDigits_SVHN/SVHN_SyDigits.png)
